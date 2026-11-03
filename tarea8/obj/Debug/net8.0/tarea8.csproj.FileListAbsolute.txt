@@ -1,0 +1,15 @@
+C:\Users\alejandra\ProgramacionFundamental\tarea8\bin\Debug\net8.0\tarea8.exe
+C:\Users\alejandra\ProgramacionFundamental\tarea8\bin\Debug\net8.0\tarea8.deps.json
+C:\Users\alejandra\ProgramacionFundamental\tarea8\bin\Debug\net8.0\tarea8.runtimeconfig.json
+C:\Users\alejandra\ProgramacionFundamental\tarea8\bin\Debug\net8.0\tarea8.dll
+C:\Users\alejandra\ProgramacionFundamental\tarea8\bin\Debug\net8.0\tarea8.pdb
+C:\Users\alejandra\ProgramacionFundamental\tarea8\obj\Debug\net8.0\tarea8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejandra\ProgramacionFundamental\tarea8\obj\Debug\net8.0\tarea8.AssemblyInfoInputs.cache
+C:\Users\alejandra\ProgramacionFundamental\tarea8\obj\Debug\net8.0\tarea8.AssemblyInfo.cs
+C:\Users\alejandra\ProgramacionFundamental\tarea8\obj\Debug\net8.0\tarea8.csproj.CoreCompileInputs.cache
+C:\Users\alejandra\ProgramacionFundamental\tarea8\obj\Debug\net8.0\tarea8.sourcelink.json
+C:\Users\alejandra\ProgramacionFundamental\tarea8\obj\Debug\net8.0\tarea8.dll
+C:\Users\alejandra\ProgramacionFundamental\tarea8\obj\Debug\net8.0\refint\tarea8.dll
+C:\Users\alejandra\ProgramacionFundamental\tarea8\obj\Debug\net8.0\tarea8.pdb
+C:\Users\alejandra\ProgramacionFundamental\tarea8\obj\Debug\net8.0\tarea8.genruntimeconfig.cache
+C:\Users\alejandra\ProgramacionFundamental\tarea8\obj\Debug\net8.0\ref\tarea8.dll
