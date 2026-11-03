@@ -1,0 +1,15 @@
+C:\Users\alejandra\ProgramacionFundamental\TAREA7\bin\Debug\net8.0\TAREA7.exe
+C:\Users\alejandra\ProgramacionFundamental\TAREA7\bin\Debug\net8.0\TAREA7.deps.json
+C:\Users\alejandra\ProgramacionFundamental\TAREA7\bin\Debug\net8.0\TAREA7.runtimeconfig.json
+C:\Users\alejandra\ProgramacionFundamental\TAREA7\bin\Debug\net8.0\TAREA7.dll
+C:\Users\alejandra\ProgramacionFundamental\TAREA7\bin\Debug\net8.0\TAREA7.pdb
+C:\Users\alejandra\ProgramacionFundamental\TAREA7\obj\Debug\net8.0\TAREA7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejandra\ProgramacionFundamental\TAREA7\obj\Debug\net8.0\TAREA7.AssemblyInfoInputs.cache
+C:\Users\alejandra\ProgramacionFundamental\TAREA7\obj\Debug\net8.0\TAREA7.AssemblyInfo.cs
+C:\Users\alejandra\ProgramacionFundamental\TAREA7\obj\Debug\net8.0\TAREA7.csproj.CoreCompileInputs.cache
+C:\Users\alejandra\ProgramacionFundamental\TAREA7\obj\Debug\net8.0\TAREA7.sourcelink.json
+C:\Users\alejandra\ProgramacionFundamental\TAREA7\obj\Debug\net8.0\TAREA7.dll
+C:\Users\alejandra\ProgramacionFundamental\TAREA7\obj\Debug\net8.0\refint\TAREA7.dll
+C:\Users\alejandra\ProgramacionFundamental\TAREA7\obj\Debug\net8.0\TAREA7.pdb
+C:\Users\alejandra\ProgramacionFundamental\TAREA7\obj\Debug\net8.0\TAREA7.genruntimeconfig.cache
+C:\Users\alejandra\ProgramacionFundamental\TAREA7\obj\Debug\net8.0\ref\TAREA7.dll
