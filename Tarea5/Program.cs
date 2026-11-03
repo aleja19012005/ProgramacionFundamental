@@ -116,7 +116,7 @@ class Program
 
     // Ejercicio 2: Carrito de compras
     static void Ejercicio2()
-    {
+    { 
         int total = 0;
         int productos = 0;
         bool otro;
