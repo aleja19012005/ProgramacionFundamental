@@ -326,5 +326,5 @@ class Program
             Console.WriteLine("Cancion: " + partes[0] + " | Artista: " + partes[1] + " | Duracion: " + partes[2] + "s");
         }
     }
-}
+} 
  
