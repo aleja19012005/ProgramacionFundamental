@@ -10,7 +10,7 @@ class Vehiculo
     {
         this.placa = placa;
     }
-
+ 
     public string Placa
     {
         get { return placa; }
