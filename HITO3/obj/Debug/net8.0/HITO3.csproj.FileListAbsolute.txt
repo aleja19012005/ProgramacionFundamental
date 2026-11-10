@@ -1,0 +1,15 @@
+C:\Users\alejandra\ProgramacionFundamental\HITO3\obj\Debug\net8.0\HITO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejandra\ProgramacionFundamental\HITO3\obj\Debug\net8.0\HITO3.AssemblyInfoInputs.cache
+C:\Users\alejandra\ProgramacionFundamental\HITO3\obj\Debug\net8.0\HITO3.AssemblyInfo.cs
+C:\Users\alejandra\ProgramacionFundamental\HITO3\obj\Debug\net8.0\HITO3.csproj.CoreCompileInputs.cache
+C:\Users\alejandra\ProgramacionFundamental\HITO3\obj\Debug\net8.0\HITO3.sourcelink.json
+C:\Users\alejandra\ProgramacionFundamental\HITO3\bin\Debug\net8.0\HITO3.exe
+C:\Users\alejandra\ProgramacionFundamental\HITO3\bin\Debug\net8.0\HITO3.deps.json
+C:\Users\alejandra\ProgramacionFundamental\HITO3\bin\Debug\net8.0\HITO3.runtimeconfig.json
+C:\Users\alejandra\ProgramacionFundamental\HITO3\bin\Debug\net8.0\HITO3.dll
+C:\Users\alejandra\ProgramacionFundamental\HITO3\bin\Debug\net8.0\HITO3.pdb
+C:\Users\alejandra\ProgramacionFundamental\HITO3\obj\Debug\net8.0\HITO3.dll
+C:\Users\alejandra\ProgramacionFundamental\HITO3\obj\Debug\net8.0\refint\HITO3.dll
+C:\Users\alejandra\ProgramacionFundamental\HITO3\obj\Debug\net8.0\HITO3.pdb
+C:\Users\alejandra\ProgramacionFundamental\HITO3\obj\Debug\net8.0\HITO3.genruntimeconfig.cache
+C:\Users\alejandra\ProgramacionFundamental\HITO3\obj\Debug\net8.0\ref\HITO3.dll
